@@ -38,8 +38,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-CSS Layout - Horizontal & Vertical Align.
-Center Align Elements - To horizontally center a block element (like <main>), use margin: auto;
+- CSS Layout - Horizontal & Vertical Align.
+- Center Align Elements - To horizontally center a block element (like *main*), use margin: auto;
 
 ```html
 <main>Some HTML code I'm proud of</main>
