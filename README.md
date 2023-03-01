@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Repo](https://github.com/YourmixJNR/URL-shortener.git)
+- Live Site URL: [Live site URL](https://yourmixjnr-qr-code-component.netlify.app/) -[![Netlify Status](https://api.netlify.com/api/v1/badges/5fc3ab66-5284-42be-9308-667a67cec300/deploy-status)](https://app.netlify.com/sites/visionary-panda-a0c679/deploys)
 
 ## My process
 
