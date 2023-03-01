@@ -24,8 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/YourmixJNR/URL-shortener.git)
-- Live Site URL: [Live site URL](https://yourmixjnr-qr-code-component.netlify.app/) -[![Netlify Status](https://api.netlify.com/api/v1/badges/5fc3ab66-5284-42be-9308-667a67cec300/deploy-status)](https://app.netlify.com/sites/visionary-panda-a0c679/deploys)
-
+- Live Site URL: [Live site URL](https://yourmixjnr-qr-code-component.netlify.app/)
 ## My process
 
 ### Built with
@@ -53,7 +52,7 @@ main {
 ### Useful resources
 
 - [CSS Layout - Horizontal & Vertical Align](https://www.w3schools.com/css/css_align.asp) - This helped me to understand how CSS layout really works.
-- [PX to REM converter](https://nekocalc.com/px-to-rem-converter)   This is an amazing web app that I used to convert PX to REM. I'd recommend it to anyone that find it difficult to convert PX to REM.
+- [PX to REM converter](https://nekocalc.com/px-to-rem-converter) - This is an amazing web app that I used to convert PX to REM. I'd recommend it to anyone that find it difficult to convert PX to REM.
 
 ## Author
 
