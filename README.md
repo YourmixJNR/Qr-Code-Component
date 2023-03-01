@@ -53,7 +53,7 @@ main {
 ### Useful resources
 
 - [CSS Layout - Horizontal & Vertical Align](https://www.w3schools.com/css/css_align.asp) - This helped me to understand how CSS layout really works.
-- [PX to REM converter](https://nekocalc.com/px-to-rem-converter) - This is an amazing web app that I used to convert PX to REM. I'd recommend it to anyone that find it difficult to convert PX to REM.
+- [PX to REM converter](https://nekocalc.com/px-to-rem-converter)   This is an amazing web app that I used to convert PX to REM. I'd recommend it to anyone that find it difficult to convert PX to REM.
 
 ## Author
 
