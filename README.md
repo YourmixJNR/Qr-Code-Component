@@ -59,4 +59,4 @@ main {
 
 - Website - [Michael Victor](https://www.webtor.xyz)
 - Frontend Mentor - [YourmixJNR](https://www.frontendmentor.io/profile/YourmixJNR)
-- Twitter - [YourmixJNR](hhttps://twitter.com/YourmixJNR)
+- Twitter - [YourmixJNR](https://twitter.com/YourmixJNR)
